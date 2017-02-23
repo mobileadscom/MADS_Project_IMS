@@ -1,0 +1,5 @@
+.mys{display:none;}
+.w3-content{max-width:980px;margin:auto;}
+.w3-animate-right{position:relative;-webkit-animation:animateright 0.4s;animation:animateright 0.4s}
+@-webkit-keyframes animateright{from{right:-200px;opacity:0} to{right:0;opacity:1}}
+@keyframes animateright{from{right:-200px;opacity:0} to{right:0;opacity:1}}
